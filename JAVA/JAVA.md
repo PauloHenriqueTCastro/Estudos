@@ -15,7 +15,10 @@ char  caractere = "M";\
 byte idadeByte = 10;\
 short idadeShorte = 10;\
 boolean isTrue = true;\
-boolean isFalse = false;
+boolean isFalse = false;\
+String frase = "Isso é uma string";
+
+casting: Permite a conversão de tipos primitivos para outros tipo. Ele meio que forca a entrada da informacao e deixa o retorno dessa variavel meio bugado.
 
 Atalhos:
 

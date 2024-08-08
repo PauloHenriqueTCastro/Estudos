@@ -38,4 +38,5 @@ byte idadeByte = 10;
 short idadeShorte = 10;
 boolean isTrue = true;
 boolean isFalse = false;
+String frase = "Isso é uma string";
 // Tipos primitivos
