@@ -18,6 +18,34 @@ boolean isTrue = true;\
 boolean isFalse = false;\
 String frase = "Isso é uma string";
 
+Operadores lógicos:\
+(+) =  soma\
+(-) = subtracao\
+(/) = divisão\
+(*) = multiplicacão\
+(%) = resto. Server para verifcar o resto de uma funcao. Pode ser utilizado para verificar se um numero é par ou impar.\
+Vão retornar numeros
+
+(<) = menor que\
+(>) = maior que\
+(<=)  menor igual\
+(>=)  maior igual\
+(==)  comparacão\
+(!=)  diferente\
+(+=)  somar valor em uma variavel\
+(-=)  subtrai valor em uma variavel\
+(*=)  multiplica o valor de uma variavel\
+(/=)  divide o valor de uma variavel\
+(%=)  retorna o resto de uma variavel\
+(++)  incrementa o valor da variavel em mais 1\
+(--)  subitrai o valor da variavel em menos 1\ 
+Vão rentonar booleanos
+
+&& (AND) = adiciona mais uma variavel/funcao na comparacao e obriga que o valor de entrada seja comparado com elas. Ex: Paulo é legal && divertido = true.\
+|| (OR) = adiciona mais uma variavel/funcao na comparacao e permite que os valores de entrada sejam compaiveis com pelo menos uma das comaparacões Ex: Paulo é legal e feio = true. (Obviamente passou por causa do legal skdjskdjs)\
+
+Switch = Uma forma mais facil para verificar se um valor é compativel com uma base pre definida de opcoes.
+
 casting: Permite a conversão de tipos primitivos para outros tipo. Ele meio que forca a entrada da informacao e deixa o retorno dessa variavel meio bugado.
 
 Atalhos:
